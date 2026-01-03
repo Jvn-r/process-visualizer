@@ -19,4 +19,6 @@ Built to better understand how processes interact with system resources mainly f
 - Batch (for admin level execution)
 
 ## Wtrace
+provides all the low level process and file interaction events for windows
 https://github.com/lowleveldesign/wtrace
+
