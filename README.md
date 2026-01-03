@@ -17,3 +17,6 @@ Built to better understand how processes interact with system resources mainly f
 - WebSockets
 - HTML/CSS
 - Batch (for admin level execution)
+
+## Wtrace
+https://github.com/lowleveldesign/wtrace
