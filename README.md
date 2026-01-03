@@ -1,5 +1,5 @@
 # Process & File Interaction Visualizer
-A visual extension to Wtrace
+A visual extension to Wtrace. 
 A Windows-based tool that parses system event logs provided by wtrace and visualizes process-to-file interactions in real time.
 
 ## What it does
@@ -23,5 +23,6 @@ Built to better understand how processes interact with system resources mainly f
 ## Wtrace
 provides all the low level process and file interaction events for windows
 https://github.com/lowleveldesign/wtrace
+
 
 
